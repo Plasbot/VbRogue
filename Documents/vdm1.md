@@ -6,4 +6,6 @@
 * Can a wall have more than one door?
 * Determine starting room and exit room first.
 * Ensure there is a path between start and exit.
+* Each room must have at least 1 door.
+* Possibly if room doors are close together, it should not be circuituous route.
 * 
